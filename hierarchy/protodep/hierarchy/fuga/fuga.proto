@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+package protodep.hierarchy.fuga;
+
+message Fuga {
+}
